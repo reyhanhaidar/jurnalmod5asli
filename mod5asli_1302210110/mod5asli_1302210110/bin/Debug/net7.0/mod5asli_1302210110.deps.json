@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "mod5asli_1302210110/1.0.0": {
+        "runtime": {
+          "mod5asli_1302210110.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mod5asli_1302210110/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
