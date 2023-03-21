@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\bin\Debug\net7.0\mod5asli_1302210110.exe
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\bin\Debug\net7.0\mod5asli_1302210110.deps.json
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\bin\Debug\net7.0\mod5asli_1302210110.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\bin\Debug\net7.0\mod5asli_1302210110.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\bin\Debug\net7.0\mod5asli_1302210110.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\obj\Debug\net7.0\mod5asli_1302210110.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\obj\Debug\net7.0\mod5asli_1302210110.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\obj\Debug\net7.0\mod5asli_1302210110.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\obj\Debug\net7.0\mod5asli_1302210110.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\obj\Debug\net7.0\mod5asli_1302210110.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\obj\Debug\net7.0\mod5asli_1302210110.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\obj\Debug\net7.0\refint\mod5asli_1302210110.dll
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\obj\Debug\net7.0\mod5asli_1302210110.pdb
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\obj\Debug\net7.0\mod5asli_1302210110.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\GitHub\jurnalmod5asli\mod5asli_1302210110\mod5asli_1302210110\obj\Debug\net7.0\ref\mod5asli_1302210110.dll
